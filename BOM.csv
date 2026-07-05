@@ -15,11 +15,11 @@ Index,DigiKey Part #,Manufacturer Part Number,Manufacturer,Description,Quantity,
 14,RMCF0805FT330KCT-ND,RMCF0805FT330K,Stackpole Electronics Inc,RES 330K OHM 1% 1/8W 0805,1,$0.39 ,$0.39 
 15,296-11607-1-ND,SN74LVC1G14DBVR,Texas Instruments,IC INVERTER 1CH 1-INP SOT23-5,1,$0.12 ,$0.12 
 16,1286-1205-ND,410-376,DIgilent,CMOD S7: BREADBOARDABLE SPARTAN7,1,$99.00 ,$99.00 
-17,,,,,1,$0.00 ,$0.00 
-18,,,,,1,$0.00 ,$0.00 
+17,2946-236-101-ND,236-101,Wago,STACKABLE PCB TERMINAL BLOCK; 2.,1,$1.22 ,$1.22 
+18,2946-236-102-ND,236-102,Wago,PCB TERMINAL BLOCK; 2.5 MM; PIN,1,$2.49 ,$2.49 
 19,,,,,1,$0.00 ,$0.00 
 ,,,,Fedex Digikey shipment charge,1,$6.99 ,$6.99 
-,,,,tax,,,$12.28 
+,,,,tax,,,$12.54 
 ,,,,PCB + shipping charge,1,90,$90.00 
 ,,,,Stencil for solder paste,,,$0.00 
-,,,,,,subtotal,$284.76 
+,,,,,,subtotal,$288.73 
